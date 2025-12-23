@@ -14,12 +14,15 @@
     "@clerk/express": "^1.7.2",
     "cloudinary": "^2.7.0",
     "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
     "mongoose": "^8.16.0",
     "multer": "^2.0.1",
     "nodemailer": "^7.0.4",
     "stripe": "^18.3.0",
     "svix": "^1.68.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
